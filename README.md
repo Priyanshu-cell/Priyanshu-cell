@@ -11,6 +11,7 @@ I'm Priyanshu Maithani, a passionate Computer Science and Engineering graduate w
 ## 🔧 Skills:
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express.js
+- **Programming Languages:** C, C++, JavaScript
 - **Databases:** MongoDB, SQL
 - **Tools:** Git, GitHub, VS Code
 
