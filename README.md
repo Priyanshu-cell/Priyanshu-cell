@@ -30,9 +30,9 @@ Tools: Git, GitHub, VS Code
 
 🌟 Let's Connect:
 
-📫 Feel free to reach out to me at priyanshumaithani02@gmail.com
-🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/priyanshu-maithani-56816a260/
-🐦 Follow me on X: https://twitter.com/Priyanshumthni3
+📫 Feel free to reach out to me at priyanshumaithani02@gmail.com <br>
+🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/priyanshu-maithani-56816a260/ <br>
+🐦 Follow me on X: https://twitter.com/Priyanshumthni3 <br>
 I'm excited to collaborate, learn, and grow with the amazing GitHub community. Let's code together and build something awesome! 💻🌟
 
 #WebDeveloper #SoftwareEngineer #OpenSource #GitHub #CodingJourney
