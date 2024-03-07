@@ -25,8 +25,8 @@ I'm Priyanshu Maithani, a passionate Computer Science and Engineering graduate w
 
 ## 🌟 Let's Connect:
 - 📫 Feel free to reach out to me at priyanshumaithani02@gmail.com
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/priyanshu-maithani-56816a260/)
-- 🐦 Follow me on [Twitter](https://twitter.com/Priyanshumthni3)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/priyanshu-maithani-56816a260/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshu%20Maithani-blue)
+- 🐦 Follow me on [Twitter](https://twitter.com/Priyanshumthni3) ![Twitter](https://img.shields.io/twitter/follow/Priyanshumthni3?style=social)
 
 I'm excited to collaborate, learn, and grow with the amazing GitHub community. Let's code together and build something awesome! 💻🌟
 
